@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "eva14_recycler_view"
